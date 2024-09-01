@@ -1,0 +1,125 @@
+.a {
+    width: 1100px;
+    height: 270px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    padding: 8px;
+    background-color: lightslategray;
+    border-radius: 17px;
+}
+
+.aa {
+    position: absolute;
+    top: 0;
+    width: 1030px;
+    margin: 20px;
+    background-color: dimgrey;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.b {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 1000px;
+    gap: 30px;
+    padding: 10px;
+    background-color: dimgrey;
+    border-radius: 4px;
+}
+
+.bb img {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.c img {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.cc img {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.d img{
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.dd img{
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.e img{
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.ee img{
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.f img{
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.bb {
+    padding: 10px;
+    width: 200px;
+    clear: right;
+}
+
+.c {
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
+
+.cc {
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
+
+.d {
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
+.dd{
+    width: 200px;
+    clear: right;
+}
+.e{
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
+.ee{
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
+.f{
+    margin-left: 30px;
+    width: 200px;
+    clear: right;
+}
